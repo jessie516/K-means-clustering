@@ -1,6 +1,6 @@
 # K-means-clustering
 
-K-means clustering models of two different datasets
+K-means clustering models trained by two different datasets
 
 - K-means clustering.ipynb
 - wine_clustering.csv
